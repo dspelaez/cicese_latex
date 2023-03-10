@@ -2,6 +2,11 @@
 
 ## Plantilla de LaTeX - CICESE
 
+La forma más sencilla de usar esta plantilla es con Overleaf. El link a la plantilla
+es el siguiente:
+
+[https://www.overleaf.com/latex/templates/plantilla-de-tesis-cicese/csgpxfsbnfqs](https://www.overleaf.com/latex/templates/plantilla-de-tesis-cicese/csgpxfsbnfqs)
+
 Plantilla de LaTeX no oficial para la elaboración del documento de tesis de
 Maestría en Ciencias y Doctorado en Ciencias del CICESE (Centro de Investigación
 Científica y de Educación Superior de Ensenada, Baja California, México). Muchas
